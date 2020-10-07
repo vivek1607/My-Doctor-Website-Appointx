@@ -1,4 +1,13 @@
 # My-Doctor-Website-Appointx
+
+# How to run this page
+1->open this folder in visual studio code
+2->install nodemon in terminal using following command -: npm install -g nodemon
+3->run entry point using this command -: nodemon index.js
+4->now open chrome and type http://localhost:8000/
+
+
+
 #1.0 Introduction: 
 In our runaway life, health is one of the most important things for us. Health is the pivot upon which a man’s whole personality and well-being depend. An ailing and aching body saps the enthusiasm for pursuit. But the everyday works keep us busy a lot and therefore, we lack in maintaining good health. Thus we visit doctors often for health checkups, but the biggest problem that we face is the availability of time. Different work personal have different available times, this makes it difficult for them to visit doctors according to their free time and doctor's availability. 
 Thus, keeping this as the basis of our project. We are developing a web application that will make it easy for the patients to have appointments with the doctor after seeing the time of availability of the doctor. The main aim of our project is to provide the time in which a patient can have an appointment with the doctor based on the availability of the respective doctor. Thus the patient can book for an appointment suitably. This project also provides a record of previous appointments of the patient and a record of previous patients of the doctor.
