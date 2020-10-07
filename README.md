@@ -11,6 +11,7 @@ Easy appointment cancellation.
 Record of the patient’s previous appointments.
 Record of previous patients of the doctor.
 Registration details of the Doctor for the patient’s trust.
+
 #1.2 Scope
 This software system will be a web application for patients and medical practitioners, as a patient need to go to the doctor and the doctor needs patients. More specifically, a simple and intuitive system whereby the patient can get a check-up from the doctor according to his time. According to this system, a patient can book or can cancel an appointment and can keep a record of previous visits. And the doctor can give his availability in the week and can have a record of old and new appointments.
 
